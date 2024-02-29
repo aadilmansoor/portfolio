@@ -46,7 +46,7 @@ const AboutSection = () => {
   return (
     <section className="text-white pt-[80px]" id="about">
       <div className="lg:grid lg:grid-cols-2 gap-8 items-center py-8 px-2 xl:gap-16 sm:py-16 xl:px-16">
-        <div className=" mb-6">
+        <div className="mb-6">
           <Image
             src="/images/Gemini_Generated_Image.jpeg"
             width={500}
