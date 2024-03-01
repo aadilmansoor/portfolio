@@ -36,7 +36,7 @@ const ProjectCard = ({ imgUrl, title, description, gitUrl, previewUrl }) => {
         <p
           className={`text-[#ADB7BE] ${
             isExpanded ? "block" : "line-clamp-2"
-          } overflow-hidden max-h-24`}
+          } overflow-hidden max-h-24 text-justify`}
           onClick={toggleDescription}
         >
           {description}
