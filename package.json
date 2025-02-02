@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@heroicons/react": "^2.0.18",
+    "@react-email/render": "^1.0.4",
     "autoprefixer": "10.4.15",
     "framer-motion": "^10.16.1",
     "next": "^15.1.6",
